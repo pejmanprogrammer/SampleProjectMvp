@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVP</string>
+
+
+    <string name="message_null_username">نام کاربری وارد نشده است</string>
+    <string name="message_null_password">رمز عبور وارد نشده است</string>
+    <string name="message_success_signup">ثبت نام با موفقیت انجام شد</string>
+    <string name="message_enter">شما وارد شدید</string>
+
+</resources>
