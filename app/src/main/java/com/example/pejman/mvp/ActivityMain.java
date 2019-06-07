@@ -19,7 +19,7 @@ public class ActivityMain extends AppCompatActivity implements  View.OnClickList
     private EditText edtpassword;
 
     private Button btnsignup;
-
+    String data ;
 
 
     private MainActiviyPresenter_DataUser presenter_dataUser;
@@ -29,6 +29,7 @@ public class ActivityMain extends AppCompatActivity implements  View.OnClickList
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
 
         setFirstObjects();
 
@@ -131,3 +132,4 @@ public class ActivityMain extends AppCompatActivity implements  View.OnClickList
 
 
 }
+
